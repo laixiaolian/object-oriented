@@ -1,17 +1,5 @@
 1001. A+B Format (20)
-时间限制 
-400 ms
 
-内存限制 
-65536 kB
-
-代码长度限制 
-16000 B
-
-判题程序 
-Standard 
-作者 
-CHEN, Yue
 Calculate a + b and output the sum in standard format -- that is, the digits must be separated into groups of three by commas (unless there are less than four digits).
 
 Input
