@@ -1,7 +1,11 @@
 #include<queue>
+
 #include "string"
+
 using namespace std;
+
 class Scan
+
 {
 	public:
 		
@@ -19,7 +23,9 @@ class Scan
 		
 };
 
+
 class Print
+
 {
 	public:
 		
