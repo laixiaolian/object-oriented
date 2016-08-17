@@ -14,8 +14,10 @@ import java.awt.event.MouseListener;
 import java.util.List;
 import java.util.Random;
 
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
+import Dialog.RecordJDialog;
 import tools.Core;
 import tools.Param;
 
@@ -27,7 +29,7 @@ import tools.Param;
  */
 
 public class MapPanel extends JPanel implements MouseListener {
-	Chess[][] arr = new Chess[Param.rows + 2][Param.cols + 2];
+	Chess[][] arr = null;
 	// 粗线条
 	Stroke stroke = new BasicStroke(3.0f);
 
@@ -54,7 +56,7 @@ public class MapPanel extends JPanel implements MouseListener {
 	 * 初始化棋盘数组
 	 */
 	public void initArr() {
-
+		arr = new Chess[Param.rows + 2][Param.cols + 2];
 		Random random = new Random();
 		for (int i = 1; i <= 20; i++) {
 			int count = 0;
@@ -106,7 +108,7 @@ public class MapPanel extends JPanel implements MouseListener {
 						int x = j * Param.chessWidth + Param.marginWidth;
 						int y = i * Param.chessHeight + Param.marginHeight;
 						g.drawImage(
-								Param.chessImage[arr[i][j].getStatus() - 1], x,
+								Param.chessImageIcon[arr[i][j].getStatus() - 1], x,
 								y, this);
 						g.setColor(Color.green);
 						g.drawRect(x, y, Param.chessWidth, Param.chessHeight);
@@ -184,14 +186,27 @@ public class MapPanel extends JPanel implements MouseListener {
 			arr[secondPoint.x][secondPoint.y].setStatus(0);
 			firstPoint = null;
 			secondPoint = null;
+			Param.ChessCount-=2;
+			
 
 			// 绘制连接线
 
 			drawLinkedLine(list);
 
 			mainFrame.repaint();
-		}
-
+			//显示得分
+			Param.score+=10;
+			mainFrame.setScore(Param.score);
+			
+			if(Param.ChessCount==0){
+			new RecordJDialog(mainFrame);
+			
+			Param.gameStatus=3;
+			mainFrame.restart();
+				repaint();
+			}
+			
+			}
 	}
 
 	@Override
