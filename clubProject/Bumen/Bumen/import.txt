@@ -1,0 +1,2461 @@
+20 300
+1 14
+handwriting  sports  film  dance  
+Fri 14 :00- 15 :00
+2 6
+handwriting  sports  dance  chess  
+Sun 18 :00- 19 :00
+3 7
+reading  handwriting  photograph  film  
+Tues 18 :00- 19 :00
+4 11
+reading  handwriting  music  photograph  
+Thur 20 :00- 21 :00
+5 14
+film  handwriting  music  chess  
+Mon 22 :00- 23 :00
+6 1
+chess  reading  handwriting  film  
+Sun 16 :00- 17 :00
+7 9
+sports  photograph  chess  music  
+Fri 9 :00- 10 :00
+8 7
+chess  dance  sports  reading  
+Tues 18 :00- 19 :00
+9 6
+reading  sports  music  photograph  
+Mon 22 :00- 23 :00
+10 6
+photograph  film  reading  handwriting  
+Thur 15 :00- 16 :00
+11 9
+reading  chess  music  film  
+Tues 19 :00- 20 :00
+12 6
+reading  photograph  chess  handwriting  
+Mon 15 :00- 16 :00
+13 9
+photograph  music  reading  chess  
+Mon 11 :00- 12 :00
+14 15
+handwriting  photograph  sports  dance  
+Sun 10 :00- 11 :00
+15 13
+music  photograph  dance  chess  
+Wed 15 :00- 16 :00
+16 5
+sports  handwriting  music  film  
+Mon 22 :00- 23 :00
+17 1
+reading  chess  film  music  
+Fri 8 :00- 9 :00
+18 10
+dance  chess  film  photograph  
+Fri 16 :00- 17 :00
+19 14
+music  reading  chess  photograph  
+Mon 16 :00- 17 :00
+20 9
+chess  photograph  handwriting  music  
+Thur 8 :00- 9 :00
+1 4.38
+16 11 7 7 17 
+film handwriting dance 
+Mon 9 :00- 22 :00
+Thur 13 :00- 20 :00
+Tues 14 :00- 19 :00
+Wed 10 :00- 14 :00
+Sun 17 :00- 19 :00
+2 1.63
+6 12 18 16 5 
+music sports photograph 
+Thur 8 :00- 18 :00
+Tues 19 :00- 20 :00
+Wed 8 :00- 12 :00
+Wed 17 :00- 19 :00
+Mon 7 :00- 14 :00
+3 3.12
+13 14 14 18 4 
+music film reading 
+Sun 9 :00- 13 :00
+Tues 10 :00- 15 :00
+Sun 20 :00- 21 :00
+Sat 15 :00- 21 :00
+Wed 7 :00- 10 :00
+4 3.45
+5 16 14 18 6 
+reading chess film 
+Sun 16 :00- 18 :00
+Mon 7 :00- 16 :00
+Wed 8 :00- 14 :00
+Fri 10 :00- 12 :00
+Tues 9 :00- 20 :00
+5 2.27
+7 9 12 9 6 
+reading photograph chess 
+Sat 11 :00- 18 :00
+Fri 13 :00- 19 :00
+Wed 11 :00- 18 :00
+Mon 9 :00- 17 :00
+Thur 13 :00- 16 :00
+6 3.34
+16 7 9 10 6 
+handwriting sports chess 
+Sat 10 :00- 17 :00
+Sun 16 :00- 22 :00
+Fri 11 :00- 18 :00
+Sat 20 :00- 22 :00
+Thur 8 :00- 14 :00
+7 4.76
+6 15 14 5 20 
+handwriting music film 
+Tues 16 :00- 20 :00
+Wed 7 :00- 8 :00
+Sat 12 :00- 23 :00
+Thur 13 :00- 17 :00
+Fri 20 :00- 23 :00
+8 4.64
+4 16 17 5 10 
+photograph sports reading 
+Fri 9 :00- 21 :00
+Wed 7 :00- 15 :00
+Mon 13 :00- 15 :00
+Thur 14 :00- 22 :00
+Mon 10 :00- 12 :00
+9 1.98
+14 9 7 14 10 
+photograph music dance 
+Fri 15 :00- 16 :00
+Sun 12 :00- 13 :00
+Sat 15 :00- 17 :00
+Sun 15 :00- 23 :00
+Fri 9 :00- 10 :00
+10 3.72
+2 14 9 14 3 
+film photograph sports 
+Thur 15 :00- 16 :00
+Tues 11 :00- 21 :00
+Sun 11 :00- 15 :00
+Fri 7 :00- 18 :00
+Fri 19 :00- 21 :00
+11 3.48
+10 13 14 15 2 
+reading handwriting chess 
+Thur 11 :00- 14 :00
+Fri 20 :00- 21 :00
+Wed 15 :00- 17 :00
+Fri 16 :00- 19 :00
+Sat 12 :00- 13 :00
+12 2.5
+13 19 10 3 9 
+reading music dance 
+Sat 17 :00- 21 :00
+Wed 8 :00- 11 :00
+Thur 8 :00- 18 :00
+Fri 14 :00- 20 :00
+Tues 10 :00- 12 :00
+13 3.59
+14 6 12 4 12 
+chess dance handwriting 
+Sat 14 :00- 20 :00
+Fri 8 :00- 9 :00
+Mon 19 :00- 22 :00
+Wed 9 :00- 10 :00
+Sun 12 :00- 22 :00
+14 2.6
+13 4 16 17 16 
+photograph reading film 
+Tues 10 :00- 15 :00
+Wed 8 :00- 12 :00
+Sun 12 :00- 22 :00
+Thur 9 :00- 10 :00
+Sat 22 :00- 23 :00
+15 1.26
+7 7 10 14 5 
+film sports music 
+Sun 8 :00- 9 :00
+Tues 9 :00- 21 :00
+Sat 10 :00- 21 :00
+Fri 19 :00- 22 :00
+Sun 12 :00- 23 :00
+16 4.97
+20 13 8 14 12 
+reading handwriting dance 
+Tues 16 :00- 18 :00
+Thur 20 :00- 23 :00
+Mon 15 :00- 17 :00
+Mon 7 :00- 9 :00
+Tues 7 :00- 14 :00
+17 4.7
+19 17 1 17 14 
+reading dance photograph 
+Sat 7 :00- 16 :00
+Wed 9 :00- 23 :00
+Thur 8 :00- 19 :00
+Mon 9 :00- 19 :00
+Tues 17 :00- 21 :00
+18 3.42
+19 11 11 15 8 
+dance chess reading 
+Sun 19 :00- 22 :00
+Sun 10 :00- 15 :00
+Mon 11 :00- 19 :00
+Wed 12 :00- 13 :00
+Thur 19 :00- 21 :00
+19 4.93
+9 14 20 18 4 
+handwriting chess photograph 
+Sat 9 :00- 17 :00
+Fri 17 :00- 18 :00
+Sun 16 :00- 21 :00
+Wed 14 :00- 18 :00
+Fri 10 :00- 13 :00
+20 1.64
+20 11 12 2 1 
+music photograph chess 
+Sun 14 :00- 20 :00
+Sat 10 :00- 17 :00
+Mon 12 :00- 23 :00
+Tues 8 :00- 20 :00
+Thur 7 :00- 23 :00
+21 1.07
+12 11 15 7 14 
+chess photograph film 
+Tues 9 :00- 12 :00
+Sun 9 :00- 22 :00
+Thur 14 :00- 18 :00
+Sat 12 :00- 15 :00
+Fri 7 :00- 15 :00
+22 1.16
+15 15 2 14 19 
+music chess handwriting 
+Fri 8 :00- 14 :00
+Tues 19 :00- 23 :00
+Wed 11 :00- 15 :00
+Sat 20 :00- 22 :00
+Tues 14 :00- 18 :00
+23 2.28
+16 17 14 9 4 
+sports music chess 
+Fri 10 :00- 21 :00
+Wed 14 :00- 20 :00
+Sat 8 :00- 11 :00
+Sun 10 :00- 13 :00
+Sun 15 :00- 19 :00
+24 3.35
+7 14 19 16 6 
+music dance reading 
+Thur 11 :00- 20 :00
+Wed 9 :00- 18 :00
+Mon 12 :00- 23 :00
+Tues 7 :00- 12 :00
+Sun 13 :00- 22 :00
+25 3.4
+6 17 4 7 10 
+sports handwriting photograph 
+Fri 10 :00- 19 :00
+Wed 21 :00- 22 :00
+Mon 7 :00- 14 :00
+Thur 8 :00- 18 :00
+Sat 11 :00- 15 :00
+26 2.41
+12 2 9 5 12 
+reading sports music 
+Sat 15 :00- 19 :00
+Mon 15 :00- 20 :00
+Tues 15 :00- 16 :00
+Thur 14 :00- 15 :00
+Sat 7 :00- 8 :00
+27 4.21
+10 1 19 19 5 
+sports music handwriting 
+Wed 9 :00- 15 :00
+Sun 11 :00- 15 :00
+Fri 10 :00- 12 :00
+Thur 9 :00- 17 :00
+Sun 17 :00- 18 :00
+28 1.6
+9 18 7 18 14 
+dance sports chess 
+Thur 10 :00- 23 :00
+Tues 12 :00- 17 :00
+Fri 20 :00- 21 :00
+Sat 10 :00- 17 :00
+Wed 9 :00- 10 :00
+29 3.5
+19 9 6 20 9 
+reading dance film 
+Tues 12 :00- 14 :00
+Sat 7 :00- 15 :00
+Sun 7 :00- 22 :00
+Wed 13 :00- 15 :00
+Thur 9 :00- 13 :00
+30 3.29
+9 3 13 12 9 
+film photograph chess 
+Wed 11 :00- 23 :00
+Tues 9 :00- 21 :00
+Thur 8 :00- 15 :00
+Fri 8 :00- 11 :00
+Mon 8 :00- 12 :00
+31 4.78
+7 14 3 8 10 
+photograph sports music 
+Sat 8 :00- 18 :00
+Sun 14 :00- 22 :00
+Fri 16 :00- 18 :00
+Mon 9 :00- 18 :00
+Tues 8 :00- 21 :00
+32 3.45
+6 9 3 1 13 
+music sports reading 
+Sun 8 :00- 23 :00
+Wed 9 :00- 10 :00
+Tues 10 :00- 15 :00
+Wed 12 :00- 19 :00
+Mon 10 :00- 20 :00
+33 3.16
+2 5 3 12 2 
+film music dance 
+Sat 8 :00- 16 :00
+Wed 8 :00- 9 :00
+Thur 10 :00- 21 :00
+Tues 18 :00- 22 :00
+Mon 15 :00- 17 :00
+34 1.88
+2 5 13 5 4 
+sports music handwriting 
+Wed 18 :00- 20 :00
+Fri 11 :00- 20 :00
+Thur 9 :00- 10 :00
+Mon 10 :00- 11 :00
+Sun 19 :00- 20 :00
+35 1.58
+16 2 9 11 17 
+film photograph chess 
+Mon 12 :00- 15 :00
+Tues 8 :00- 18 :00
+Wed 10 :00- 15 :00
+Thur 15 :00- 18 :00
+Sat 13 :00- 20 :00
+36 4.37
+1 7 4 18 8 
+film music chess 
+Thur 16 :00- 22 :00
+Sat 7 :00- 8 :00
+Tues 10 :00- 13 :00
+Wed 10 :00- 18 :00
+Sun 9 :00- 11 :00
+37 2.3
+13 7 12 11 20 
+film sports dance 
+Sat 18 :00- 19 :00
+Thur 7 :00- 10 :00
+Wed 9 :00- 21 :00
+Fri 8 :00- 23 :00
+Mon 7 :00- 20 :00
+38 1.08
+4 11 12 5 9 
+handwriting sports film 
+Wed 7 :00- 21 :00
+Sat 9 :00- 11 :00
+Thur 10 :00- 12 :00
+Tues 15 :00- 16 :00
+Sun 21 :00- 23 :00
+39 1.85
+11 19 14 18 4 
+photograph sports dance 
+Sat 10 :00- 20 :00
+Wed 11 :00- 15 :00
+Tues 13 :00- 20 :00
+Thur 8 :00- 23 :00
+Fri 9 :00- 18 :00
+40 2.42
+8 2 18 10 16 
+sports photograph chess 
+Sun 19 :00- 20 :00
+Wed 18 :00- 22 :00
+Mon 7 :00- 11 :00
+Thur 16 :00- 17 :00
+Tues 8 :00- 9 :00
+41 1.66
+11 20 2 17 1 
+music sports handwriting 
+Tues 21 :00- 23 :00
+Thur 9 :00- 18 :00
+Tues 12 :00- 16 :00
+Fri 8 :00- 22 :00
+Sun 13 :00- 19 :00
+42 1.97
+17 17 8 8 2 
+dance photograph sports 
+Sat 11 :00- 15 :00
+Tues 13 :00- 14 :00
+Sun 15 :00- 23 :00
+Sat 19 :00- 21 :00
+Thur 10 :00- 22 :00
+43 3.41
+6 9 20 6 15 
+chess dance film 
+Fri 7 :00- 14 :00
+Thur 17 :00- 20 :00
+Sat 10 :00- 12 :00
+Thur 10 :00- 16 :00
+Mon 19 :00- 21 :00
+44 4.14
+7 4 9 16 16 
+chess music sports 
+Mon 11 :00- 13 :00
+Sun 18 :00- 19 :00
+Tues 12 :00- 20 :00
+Sat 9 :00- 13 :00
+Thur 8 :00- 11 :00
+45 4.78
+9 7 11 15 15 
+dance reading film 
+Sat 9 :00- 14 :00
+Thur 9 :00- 13 :00
+Sat 19 :00- 21 :00
+Fri 7 :00- 13 :00
+Tues 12 :00- 18 :00
+46 3.43
+15 8 5 18 3 
+reading photograph dance 
+Thur 7 :00- 17 :00
+Fri 8 :00- 22 :00
+Tues 16 :00- 21 :00
+Sun 9 :00- 21 :00
+Sat 8 :00- 14 :00
+47 2.24
+10 5 15 5 1 
+chess sports reading 
+Sun 20 :00- 21 :00
+Thur 10 :00- 15 :00
+Sat 15 :00- 16 :00
+Mon 12 :00- 15 :00
+Fri 11 :00- 14 :00
+48 3.93
+11 17 3 13 1 
+dance sports music 
+Sat 9 :00- 21 :00
+Tues 14 :00- 19 :00
+Sun 19 :00- 23 :00
+Sun 7 :00- 16 :00
+Fri 9 :00- 21 :00
+49 4.42
+18 15 10 15 7 
+film reading sports 
+Thur 11 :00- 21 :00
+Tues 22 :00- 23 :00
+Sat 8 :00- 11 :00
+Sat 18 :00- 20 :00
+Fri 16 :00- 22 :00
+50 3.94
+19 16 3 8 1 
+sports film photograph 
+Mon 20 :00- 21 :00
+Thur 13 :00- 18 :00
+Mon 12 :00- 18 :00
+Wed 10 :00- 22 :00
+Tues 8 :00- 12 :00
+51 2.46
+14 1 14 9 3 
+dance handwriting music 
+Thur 10 :00- 14 :00
+Tues 8 :00- 21 :00
+Fri 17 :00- 23 :00
+Sun 20 :00- 22 :00
+Sat 9 :00- 21 :00
+52 3.24
+2 19 11 11 2 
+dance photograph reading 
+Tues 9 :00- 12 :00
+Wed 13 :00- 23 :00
+Sun 10 :00- 21 :00
+Thur 7 :00- 21 :00
+Fri 11 :00- 21 :00
+53 2.37
+15 9 8 9 20 
+dance chess music 
+Sun 22 :00- 23 :00
+Fri 15 :00- 22 :00
+Mon 11 :00- 17 :00
+Tues 12 :00- 15 :00
+Thur 15 :00- 21 :00
+54 3.57
+1 7 12 4 5 
+photograph film dance 
+Tues 10 :00- 20 :00
+Fri 16 :00- 18 :00
+Thur 20 :00- 21 :00
+Sat 8 :00- 11 :00
+Wed 11 :00- 15 :00
+55 2.93
+18 16 7 7 11 
+chess film reading 
+Tues 16 :00- 19 :00
+Sat 11 :00- 15 :00
+Tues 21 :00- 22 :00
+Wed 18 :00- 20 :00
+Sun 13 :00- 18 :00
+56 2.44
+4 14 16 20 13 
+reading chess music 
+Sat 8 :00- 13 :00
+Tues 10 :00- 17 :00
+Fri 10 :00- 20 :00
+Sun 10 :00- 23 :00
+Thur 13 :00- 22 :00
+57 3.86
+7 16 17 8 3 
+photograph reading music 
+Sun 7 :00- 10 :00
+Fri 16 :00- 17 :00
+Wed 14 :00- 21 :00
+Thur 9 :00- 18 :00
+Sun 13 :00- 21 :00
+58 2.09
+9 16 3 8 18 
+music handwriting reading 
+Fri 17 :00- 22 :00
+Mon 12 :00- 17 :00
+Mon 8 :00- 10 :00
+Wed 13 :00- 19 :00
+Sat 19 :00- 23 :00
+59 1.24
+17 15 10 12 2 
+handwriting dance sports 
+Mon 7 :00- 10 :00
+Wed 13 :00- 14 :00
+Tues 13 :00- 21 :00
+Sun 7 :00- 16 :00
+Sat 17 :00- 21 :00
+60 2.81
+14 15 4 6 11 
+chess reading photograph 
+Mon 11 :00- 12 :00
+Thur 18 :00- 19 :00
+Tues 9 :00- 20 :00
+Sat 12 :00- 17 :00
+Fri 14 :00- 20 :00
+61 3.52
+14 19 5 8 20 
+dance music sports 
+Thur 9 :00- 16 :00
+Fri 8 :00- 11 :00
+Wed 11 :00- 18 :00
+Sun 18 :00- 19 :00
+Mon 9 :00- 11 :00
+62 4.62
+3 1 5 3 11 
+reading film dance 
+Sat 12 :00- 22 :00
+Sun 13 :00- 14 :00
+Tues 7 :00- 21 :00
+Mon 8 :00- 19 :00
+Wed 8 :00- 19 :00
+63 3.16
+15 9 12 11 17 
+dance film chess 
+Wed 8 :00- 14 :00
+Mon 9 :00- 17 :00
+Sat 21 :00- 22 :00
+Tues 9 :00- 11 :00
+Thur 11 :00- 16 :00
+64 4.26
+6 10 13 6 1 
+chess sports photograph 
+Wed 10 :00- 18 :00
+Sun 13 :00- 22 :00
+Sat 13 :00- 22 :00
+Thur 9 :00- 20 :00
+Mon 8 :00- 9 :00
+65 1.7
+10 10 16 13 12 
+sports dance reading 
+Wed 9 :00- 14 :00
+Fri 18 :00- 22 :00
+Tues 9 :00- 15 :00
+Mon 9 :00- 16 :00
+Fri 12 :00- 16 :00
+66 4.46
+3 16 20 10 4 
+handwriting music reading 
+Sat 13 :00- 14 :00
+Sun 10 :00- 19 :00
+Tues 18 :00- 22 :00
+Mon 16 :00- 18 :00
+Thur 13 :00- 21 :00
+67 4.05
+7 12 13 2 16 
+sports photograph dance 
+Wed 12 :00- 21 :00
+Mon 10 :00- 20 :00
+Sat 9 :00- 18 :00
+Thur 8 :00- 15 :00
+Fri 21 :00- 22 :00
+68 3.91
+3 19 11 3 8 
+reading chess music 
+Fri 9 :00- 10 :00
+Mon 7 :00- 14 :00
+Fri 16 :00- 22 :00
+Sat 16 :00- 19 :00
+Tues 7 :00- 21 :00
+69 2.92
+15 8 18 18 18 
+chess reading music 
+Thur 15 :00- 23 :00
+Wed 11 :00- 18 :00
+Sun 7 :00- 19 :00
+Sun 20 :00- 22 :00
+Sat 11 :00- 19 :00
+70 3.16
+11 1 14 19 5 
+reading sports dance 
+Wed 12 :00- 22 :00
+Sun 17 :00- 23 :00
+Sun 7 :00- 12 :00
+Tues 10 :00- 11 :00
+Fri 17 :00- 21 :00
+71 2.23
+13 19 4 5 15 
+sports photograph film 
+Fri 7 :00- 13 :00
+Thur 7 :00- 12 :00
+Mon 16 :00- 21 :00
+Thur 15 :00- 19 :00
+Mon 9 :00- 10 :00
+72 4.36
+13 15 12 11 4 
+film dance sports 
+Sun 9 :00- 11 :00
+Sat 18 :00- 21 :00
+Sun 16 :00- 22 :00
+Thur 9 :00- 10 :00
+Tues 7 :00- 15 :00
+73 3.99
+5 9 14 9 11 
+reading music dance 
+Sat 10 :00- 23 :00
+Sun 14 :00- 21 :00
+Wed 7 :00- 9 :00
+Mon 9 :00- 17 :00
+Wed 19 :00- 20 :00
+74 4.14
+6 20 16 7 11 
+music chess sports 
+Sat 8 :00- 19 :00
+Sun 14 :00- 16 :00
+Thur 8 :00- 18 :00
+Sun 11 :00- 13 :00
+Fri 10 :00- 12 :00
+75 1.88
+4 3 10 13 6 
+handwriting chess sports 
+Tues 14 :00- 16 :00
+Sun 8 :00- 18 :00
+Thur 8 :00- 11 :00
+Wed 12 :00- 15 :00
+Sat 13 :00- 16 :00
+76 1.21
+13 13 14 20 9 
+chess reading handwriting 
+Sat 17 :00- 18 :00
+Thur 18 :00- 21 :00
+Tues 8 :00- 22 :00
+Thur 10 :00- 14 :00
+Mon 16 :00- 20 :00
+77 2.66
+8 12 16 15 10 
+dance music handwriting 
+Fri 11 :00- 12 :00
+Thur 15 :00- 20 :00
+Tues 15 :00- 21 :00
+Sun 10 :00- 17 :00
+Wed 10 :00- 14 :00
+78 3.26
+17 2 16 12 15 
+music film handwriting 
+Fri 13 :00- 15 :00
+Tues 9 :00- 22 :00
+Mon 18 :00- 22 :00
+Mon 7 :00- 11 :00
+Sun 8 :00- 9 :00
+79 4.86
+17 1 15 18 7 
+dance photograph reading 
+Mon 10 :00- 11 :00
+Thur 9 :00- 21 :00
+Tues 11 :00- 15 :00
+Fri 9 :00- 10 :00
+Wed 9 :00- 11 :00
+80 4.92
+17 17 19 7 13 
+reading photograph sports 
+Sun 13 :00- 14 :00
+Fri 7 :00- 12 :00
+Sun 17 :00- 18 :00
+Mon 19 :00- 21 :00
+Mon 22 :00- 23 :00
+81 1.8
+1 4 3 11 20 
+chess music photograph 
+Wed 14 :00- 17 :00
+Wed 9 :00- 12 :00
+Fri 14 :00- 17 :00
+Mon 7 :00- 14 :00
+Tues 16 :00- 23 :00
+82 3.65
+8 3 17 7 20 
+sports photograph dance 
+Wed 11 :00- 21 :00
+Sat 8 :00- 22 :00
+Fri 15 :00- 23 :00
+Tues 17 :00- 22 :00
+Mon 13 :00- 15 :00
+83 3.02
+10 11 19 3 1 
+chess photograph handwriting 
+Sat 7 :00- 13 :00
+Fri 21 :00- 22 :00
+Tues 11 :00- 21 :00
+Mon 17 :00- 18 :00
+Sun 16 :00- 17 :00
+84 4.3
+10 2 2 19 8 
+photograph reading chess 
+Sat 19 :00- 21 :00
+Sun 16 :00- 19 :00
+Tues 16 :00- 20 :00
+Tues 8 :00- 12 :00
+Wed 7 :00- 12 :00
+85 4.63
+6 18 10 11 5 
+sports reading photograph 
+Wed 7 :00- 14 :00
+Sat 11 :00- 15 :00
+Thur 15 :00- 18 :00
+Tues 9 :00- 10 :00
+Sat 21 :00- 22 :00
+86 2.07
+3 15 6 15 20 
+handwriting film reading 
+Sat 13 :00- 14 :00
+Sat 15 :00- 18 :00
+Tues 9 :00- 23 :00
+Fri 8 :00- 10 :00
+Sun 20 :00- 23 :00
+87 4.42
+7 9 4 19 18 
+handwriting dance sports 
+Tues 7 :00- 18 :00
+Thur 10 :00- 18 :00
+Wed 8 :00- 20 :00
+Sat 11 :00- 21 :00
+Mon 12 :00- 16 :00
+88 1.53
+20 13 6 4 13 
+music film dance 
+Wed 15 :00- 17 :00
+Mon 8 :00- 20 :00
+Sun 12 :00- 13 :00
+Fri 11 :00- 20 :00
+Thur 10 :00- 17 :00
+89 3.96
+14 8 19 18 18 
+dance handwriting chess 
+Fri 7 :00- 11 :00
+Tues 16 :00- 21 :00
+Sun 8 :00- 11 :00
+Fri 12 :00- 23 :00
+Mon 9 :00- 11 :00
+90 4.59
+1 14 6 11 20 
+reading sports chess 
+Sat 21 :00- 22 :00
+Sat 8 :00- 10 :00
+Wed 16 :00- 17 :00
+Sat 14 :00- 18 :00
+Fri 10 :00- 18 :00
+91 4.56
+14 4 1 11 16 
+dance photograph handwriting 
+Mon 12 :00- 17 :00
+Sat 17 :00- 22 :00
+Wed 19 :00- 23 :00
+Tues 15 :00- 22 :00
+Fri 20 :00- 23 :00
+92 2.5
+9 11 20 2 19 
+chess dance handwriting 
+Wed 11 :00- 14 :00
+Fri 13 :00- 23 :00
+Sun 12 :00- 22 :00
+Sat 10 :00- 17 :00
+Thur 8 :00- 12 :00
+93 3.01
+18 6 8 16 2 
+music photograph sports 
+Sun 15 :00- 19 :00
+Tues 11 :00- 15 :00
+Sat 20 :00- 21 :00
+Wed 16 :00- 23 :00
+Sat 10 :00- 14 :00
+94 2.3
+13 8 3 1 19 
+sports reading film 
+Mon 22 :00- 23 :00
+Wed 7 :00- 13 :00
+Thur 9 :00- 11 :00
+Sun 11 :00- 18 :00
+Tues 13 :00- 19 :00
+95 1.34
+7 18 17 20 2 
+handwriting photograph dance 
+Fri 14 :00- 22 :00
+Sat 19 :00- 21 :00
+Thur 12 :00- 21 :00
+Wed 17 :00- 21 :00
+Tues 16 :00- 22 :00
+96 4.44
+16 14 14 11 2 
+music chess sports 
+Mon 13 :00- 16 :00
+Mon 17 :00- 19 :00
+Thur 7 :00- 20 :00
+Mon 21 :00- 23 :00
+Fri 9 :00- 21 :00
+97 4.01
+8 11 10 10 10 
+film photograph handwriting 
+Thur 8 :00- 14 :00
+Wed 8 :00- 16 :00
+Fri 9 :00- 13 :00
+Sun 14 :00- 20 :00
+Tues 8 :00- 15 :00
+98 2.86
+11 16 1 20 13 
+film handwriting dance 
+Mon 9 :00- 13 :00
+Tues 12 :00- 20 :00
+Sat 11 :00- 13 :00
+Sat 20 :00- 22 :00
+Wed 12 :00- 22 :00
+99 3.13
+6 10 13 8 17 
+sports dance music 
+Wed 13 :00- 20 :00
+Mon 8 :00- 21 :00
+Fri 12 :00- 15 :00
+Sun 8 :00- 18 :00
+Tues 11 :00- 22 :00
+100 2.74
+3 11 6 10 14 
+music dance reading 
+Wed 7 :00- 19 :00
+Sat 9 :00- 21 :00
+Thur 9 :00- 13 :00
+Fri 17 :00- 21 :00
+Tues 8 :00- 12 :00
+101 3.94
+18 3 5 10 17 
+sports chess dance 
+Sat 7 :00- 14 :00
+Mon 11 :00- 17 :00
+Thur 10 :00- 12 :00
+Fri 8 :00- 23 :00
+Wed 10 :00- 18 :00
+102 1.29
+20 20 12 19 18 
+photograph film sports 
+Fri 14 :00- 15 :00
+Wed 14 :00- 19 :00
+Sun 14 :00- 18 :00
+Thur 8 :00- 10 :00
+Sat 15 :00- 16 :00
+103 4.73
+8 12 8 9 11 
+film reading dance 
+Tues 15 :00- 23 :00
+Sun 19 :00- 20 :00
+Sat 10 :00- 20 :00
+Mon 12 :00- 18 :00
+Fri 12 :00- 19 :00
+104 1.62
+11 12 3 11 10 
+chess photograph film 
+Wed 10 :00- 20 :00
+Tues 11 :00- 12 :00
+Fri 11 :00- 17 :00
+Sat 12 :00- 13 :00
+Mon 18 :00- 21 :00
+105 3.58
+9 20 17 12 4 
+dance sports music 
+Sun 8 :00- 11 :00
+Thur 17 :00- 18 :00
+Tues 21 :00- 23 :00
+Thur 10 :00- 15 :00
+Sun 18 :00- 23 :00
+106 4.45
+14 9 13 2 2 
+film chess reading 
+Thur 9 :00- 13 :00
+Sun 15 :00- 18 :00
+Tues 8 :00- 19 :00
+Fri 7 :00- 13 :00
+Wed 11 :00- 17 :00
+107 3.41
+3 8 15 3 7 
+reading music film 
+Mon 10 :00- 18 :00
+Sun 9 :00- 21 :00
+Fri 9 :00- 17 :00
+Tues 10 :00- 13 :00
+Wed 20 :00- 22 :00
+108 3.61
+16 15 4 9 3 
+handwriting chess dance 
+Wed 14 :00- 21 :00
+Tues 10 :00- 20 :00
+Sat 9 :00- 23 :00
+Sun 10 :00- 23 :00
+Fri 9 :00- 21 :00
+109 3.03
+3 5 3 9 4 
+music reading sports 
+Mon 13 :00- 17 :00
+Tues 11 :00- 20 :00
+Thur 8 :00- 13 :00
+Thur 14 :00- 20 :00
+Tues 7 :00- 10 :00
+110 4.59
+18 1 5 17 13 
+handwriting music reading 
+Wed 14 :00- 21 :00
+Sun 7 :00- 9 :00
+Sun 10 :00- 17 :00
+Mon 7 :00- 18 :00
+Thur 11 :00- 23 :00
+111 1.98
+2 3 16 18 5 
+reading film photograph 
+Sat 10 :00- 22 :00
+Tues 7 :00- 13 :00
+Thur 9 :00- 14 :00
+Wed 9 :00- 19 :00
+Sun 16 :00- 21 :00
+112 1.05
+3 13 8 18 15 
+music chess handwriting 
+Tues 7 :00- 17 :00
+Mon 13 :00- 17 :00
+Mon 19 :00- 23 :00
+Thur 14 :00- 17 :00
+Tues 22 :00- 23 :00
+113 4.2
+15 19 6 17 7 
+reading sports handwriting 
+Tues 10 :00- 15 :00
+Fri 13 :00- 17 :00
+Sun 8 :00- 9 :00
+Wed 20 :00- 22 :00
+Wed 14 :00- 18 :00
+114 1.22
+10 8 14 13 11 
+handwriting reading dance 
+Mon 9 :00- 12 :00
+Thur 11 :00- 23 :00
+Sun 7 :00- 16 :00
+Sat 14 :00- 22 :00
+Wed 19 :00- 21 :00
+115 2.87
+16 17 5 20 7 
+reading handwriting chess 
+Sat 21 :00- 22 :00
+Wed 10 :00- 19 :00
+Sat 9 :00- 19 :00
+Tues 11 :00- 14 :00
+Tues 16 :00- 19 :00
+116 3.04
+3 5 15 7 20 
+dance film music 
+Sun 10 :00- 11 :00
+Tues 13 :00- 20 :00
+Thur 8 :00- 15 :00
+Wed 9 :00- 16 :00
+Mon 15 :00- 17 :00
+117 4.96
+12 4 9 7 19 
+sports reading music 
+Sat 13 :00- 15 :00
+Tues 9 :00- 17 :00
+Mon 10 :00- 15 :00
+Mon 17 :00- 18 :00
+Sun 8 :00- 23 :00
+118 4.73
+20 8 19 16 16 
+sports film reading 
+Sun 7 :00- 15 :00
+Sun 19 :00- 20 :00
+Tues 14 :00- 20 :00
+Sat 10 :00- 14 :00
+Thur 14 :00- 18 :00
+119 2.18
+14 7 19 13 7 
+reading music handwriting 
+Mon 11 :00- 22 :00
+Thur 7 :00- 22 :00
+Tues 8 :00- 18 :00
+Sat 11 :00- 14 :00
+Wed 11 :00- 14 :00
+120 1.88
+12 8 3 2 11 
+handwriting sports film 
+Fri 16 :00- 18 :00
+Wed 17 :00- 19 :00
+Sun 7 :00- 18 :00
+Wed 8 :00- 9 :00
+Mon 16 :00- 19 :00
+121 1.87
+1 14 3 20 4 
+chess music photograph 
+Fri 18 :00- 21 :00
+Tues 11 :00- 12 :00
+Thur 9 :00- 11 :00
+Sun 7 :00- 18 :00
+Sat 9 :00- 21 :00
+122 3.25
+3 17 12 12 14 
+chess reading handwriting 
+Mon 15 :00- 16 :00
+Fri 13 :00- 17 :00
+Sun 10 :00- 18 :00
+Mon 7 :00- 12 :00
+Thur 9 :00- 12 :00
+123 3.37
+2 8 13 7 2 
+photograph sports music 
+Wed 15 :00- 16 :00
+Fri 13 :00- 21 :00
+Thur 11 :00- 12 :00
+Mon 10 :00- 22 :00
+Thur 17 :00- 19 :00
+124 1.93
+20 2 3 4 20 
+reading handwriting photograph 
+Fri 21 :00- 22 :00
+Thur 9 :00- 19 :00
+Tues 8 :00- 13 :00
+Wed 11 :00- 13 :00
+Mon 9 :00- 21 :00
+125 1.52
+10 14 14 19 9 
+chess reading music 
+Sun 11 :00- 13 :00
+Sun 18 :00- 22 :00
+Mon 17 :00- 19 :00
+Sat 15 :00- 17 :00
+Tues 7 :00- 11 :00
+126 2.45
+17 4 4 16 2 
+music film handwriting 
+Sun 9 :00- 17 :00
+Thur 19 :00- 21 :00
+Sat 12 :00- 16 :00
+Thur 12 :00- 17 :00
+Fri 12 :00- 14 :00
+127 4.71
+1 20 15 20 2 
+chess music reading 
+Sun 20 :00- 23 :00
+Mon 18 :00- 21 :00
+Wed 21 :00- 22 :00
+Thur 12 :00- 14 :00
+Sat 14 :00- 18 :00
+128 3.89
+3 12 18 5 3 
+photograph chess film 
+Mon 15 :00- 20 :00
+Tues 13 :00- 20 :00
+Thur 13 :00- 17 :00
+Wed 19 :00- 23 :00
+Thur 18 :00- 20 :00
+129 1.72
+6 5 16 4 20 
+film reading photograph 
+Sat 15 :00- 23 :00
+Fri 14 :00- 15 :00
+Sun 10 :00- 18 :00
+Wed 11 :00- 16 :00
+Thur 11 :00- 19 :00
+130 2.72
+18 20 10 19 3 
+music handwriting photograph 
+Sat 7 :00- 10 :00
+Sat 14 :00- 22 :00
+Mon 19 :00- 20 :00
+Sun 10 :00- 14 :00
+Tues 14 :00- 21 :00
+131 1.43
+19 12 15 11 6 
+reading dance sports 
+Sun 13 :00- 16 :00
+Thur 11 :00- 12 :00
+Wed 8 :00- 12 :00
+Fri 16 :00- 17 :00
+Tues 16 :00- 23 :00
+132 1.79
+6 19 13 14 8 
+sports dance chess 
+Sat 8 :00- 9 :00
+Fri 12 :00- 16 :00
+Wed 18 :00- 19 :00
+Thur 11 :00- 17 :00
+Mon 8 :00- 22 :00
+133 3.63
+2 5 20 13 16 
+chess photograph handwriting 
+Thur 21 :00- 23 :00
+Wed 15 :00- 17 :00
+Mon 12 :00- 13 :00
+Tues 8 :00- 19 :00
+Fri 8 :00- 12 :00
+134 1.21
+6 13 8 2 12 
+film dance photograph 
+Thur 15 :00- 16 :00
+Sat 20 :00- 22 :00
+Fri 8 :00- 13 :00
+Sat 9 :00- 17 :00
+Mon 15 :00- 19 :00
+135 1.91
+13 1 5 12 12 
+chess handwriting sports 
+Fri 7 :00- 9 :00
+Tues 12 :00- 18 :00
+Sun 13 :00- 21 :00
+Mon 13 :00- 19 :00
+Sat 15 :00- 22 :00
+136 2.95
+17 6 5 16 9 
+dance sports music 
+Wed 9 :00- 19 :00
+Tues 18 :00- 22 :00
+Thur 10 :00- 18 :00
+Fri 10 :00- 17 :00
+Fri 19 :00- 20 :00
+137 2.48
+9 19 19 16 10 
+sports film handwriting 
+Wed 8 :00- 22 :00
+Fri 11 :00- 17 :00
+Tues 10 :00- 13 :00
+Sun 8 :00- 21 :00
+Fri 7 :00- 9 :00
+138 3.04
+18 15 20 3 2 
+dance photograph film 
+Sun 9 :00- 18 :00
+Thur 9 :00- 14 :00
+Mon 11 :00- 14 :00
+Tues 10 :00- 22 :00
+Sat 8 :00- 9 :00
+139 1.23
+14 8 3 1 14 
+music photograph film 
+Sat 11 :00- 12 :00
+Sun 7 :00- 12 :00
+Thur 8 :00- 21 :00
+Wed 18 :00- 21 :00
+Tues 17 :00- 18 :00
+140 1
+9 10 6 9 6 
+dance handwriting music 
+Wed 11 :00- 19 :00
+Fri 7 :00- 17 :00
+Sat 8 :00- 10 :00
+Sun 10 :00- 16 :00
+Sat 18 :00- 19 :00
+141 3.02
+16 11 7 10 6 
+dance handwriting chess 
+Fri 15 :00- 17 :00
+Sun 11 :00- 21 :00
+Wed 7 :00- 9 :00
+Mon 15 :00- 18 :00
+Tues 9 :00- 15 :00
+142 1.26
+6 10 1 4 11 
+film dance music 
+Thur 11 :00- 19 :00
+Wed 11 :00- 16 :00
+Sun 8 :00- 10 :00
+Fri 11 :00- 21 :00
+Sat 12 :00- 13 :00
+143 3.31
+1 4 4 9 14 
+chess reading music 
+Sun 8 :00- 18 :00
+Wed 11 :00- 13 :00
+Thur 11 :00- 16 :00
+Mon 16 :00- 22 :00
+Wed 16 :00- 23 :00
+144 2.64
+5 5 6 18 4 
+photograph chess sports 
+Wed 18 :00- 19 :00
+Thur 16 :00- 20 :00
+Thur 11 :00- 13 :00
+Fri 9 :00- 11 :00
+Sun 9 :00- 19 :00
+145 3.08
+4 3 3 15 9 
+handwriting photograph film 
+Sun 7 :00- 22 :00
+Mon 7 :00- 18 :00
+Wed 13 :00- 15 :00
+Thur 15 :00- 22 :00
+Tues 22 :00- 23 :00
+146 1.49
+10 3 8 18 1 
+photograph reading film 
+Wed 7 :00- 13 :00
+Thur 19 :00- 20 :00
+Wed 14 :00- 20 :00
+Sun 18 :00- 22 :00
+Sat 20 :00- 22 :00
+147 4.28
+13 18 11 15 6 
+film chess reading 
+Sun 20 :00- 22 :00
+Tues 11 :00- 20 :00
+Sun 10 :00- 12 :00
+Mon 11 :00- 21 :00
+Sun 15 :00- 16 :00
+148 2.69
+19 6 3 2 16 
+dance film photograph 
+Thur 8 :00- 21 :00
+Wed 16 :00- 18 :00
+Sun 10 :00- 16 :00
+Fri 13 :00- 17 :00
+Sat 8 :00- 18 :00
+149 4.32
+6 6 16 3 6 
+music dance sports 
+Thur 14 :00- 22 :00
+Wed 13 :00- 18 :00
+Wed 10 :00- 11 :00
+Tues 9 :00- 16 :00
+Mon 15 :00- 19 :00
+150 4.26
+16 6 11 16 16 
+music dance film 
+Sat 7 :00- 21 :00
+Sun 9 :00- 11 :00
+Fri 8 :00- 23 :00
+Sun 16 :00- 19 :00
+Wed 8 :00- 16 :00
+151 1.49
+20 1 18 19 13 
+sports handwriting photograph 
+Fri 8 :00- 14 :00
+Mon 18 :00- 20 :00
+Wed 14 :00- 19 :00
+Thur 11 :00- 23 :00
+Sun 12 :00- 21 :00
+152 1.51
+2 2 2 19 9 
+reading film photograph 
+Sat 10 :00- 21 :00
+Sun 18 :00- 19 :00
+Fri 11 :00- 20 :00
+Thur 14 :00- 23 :00
+Mon 9 :00- 22 :00
+153 1.77
+18 10 1 15 11 
+music film handwriting 
+Fri 8 :00- 21 :00
+Mon 8 :00- 16 :00
+Wed 11 :00- 22 :00
+Tues 20 :00- 21 :00
+Thur 13 :00- 18 :00
+154 4.55
+16 20 8 7 13 
+music photograph sports 
+Thur 19 :00- 23 :00
+Mon 10 :00- 16 :00
+Wed 18 :00- 19 :00
+Tues 12 :00- 22 :00
+Thur 14 :00- 18 :00
+155 2.87
+17 11 17 18 4 
+dance music film 
+Fri 7 :00- 20 :00
+Thur 20 :00- 23 :00
+Wed 10 :00- 18 :00
+Thur 11 :00- 12 :00
+Sun 8 :00- 18 :00
+156 3.48
+17 14 7 14 3 
+photograph reading music 
+Wed 8 :00- 11 :00
+Sat 8 :00- 17 :00
+Sun 9 :00- 10 :00
+Fri 8 :00- 13 :00
+Tues 7 :00- 19 :00
+157 2.75
+12 17 11 2 15 
+music chess sports 
+Sun 14 :00- 23 :00
+Thur 15 :00- 17 :00
+Tues 12 :00- 14 :00
+Sat 19 :00- 22 :00
+Wed 10 :00- 21 :00
+158 4.62
+15 7 13 2 5 
+film photograph reading 
+Mon 18 :00- 21 :00
+Fri 12 :00- 23 :00
+Wed 10 :00- 15 :00
+Sat 15 :00- 16 :00
+Thur 8 :00- 20 :00
+159 4.25
+16 8 8 18 15 
+chess sports dance 
+Fri 15 :00- 22 :00
+Sun 16 :00- 21 :00
+Tues 13 :00- 23 :00
+Fri 8 :00- 14 :00
+Sun 13 :00- 14 :00
+160 1.53
+17 18 15 18 9 
+handwriting chess music 
+Sun 11 :00- 21 :00
+Sat 7 :00- 10 :00
+Wed 12 :00- 13 :00
+Tues 12 :00- 19 :00
+Wed 15 :00- 21 :00
+161 3.82
+7 6 2 7 1 
+handwriting chess film 
+Sun 11 :00- 13 :00
+Sun 18 :00- 21 :00
+Fri 7 :00- 10 :00
+Thur 10 :00- 11 :00
+Sat 9 :00- 14 :00
+162 3.8
+20 5 7 13 16 
+handwriting film reading 
+Tues 16 :00- 23 :00
+Fri 21 :00- 23 :00
+Thur 8 :00- 19 :00
+Wed 11 :00- 12 :00
+Fri 8 :00- 19 :00
+163 2.05
+18 10 14 20 9 
+photograph reading dance 
+Fri 10 :00- 14 :00
+Sun 11 :00- 22 :00
+Mon 10 :00- 22 :00
+Sat 8 :00- 13 :00
+Thur 7 :00- 15 :00
+164 1.94
+9 3 20 20 18 
+sports chess film 
+Fri 11 :00- 16 :00
+Sun 8 :00- 12 :00
+Mon 9 :00- 17 :00
+Tues 22 :00- 23 :00
+Wed 20 :00- 22 :00
+165 1.81
+13 8 5 19 12 
+dance handwriting sports 
+Sun 11 :00- 19 :00
+Tues 13 :00- 15 :00
+Mon 10 :00- 14 :00
+Wed 12 :00- 14 :00
+Fri 10 :00- 18 :00
+166 4.44
+3 14 3 8 16 
+dance sports photograph 
+Thur 9 :00- 23 :00
+Sat 10 :00- 21 :00
+Wed 10 :00- 22 :00
+Fri 15 :00- 17 :00
+Tues 13 :00- 17 :00
+167 1.64
+20 2 20 16 16 
+reading photograph sports 
+Fri 10 :00- 11 :00
+Thur 17 :00- 20 :00
+Sat 7 :00- 10 :00
+Tues 7 :00- 20 :00
+Wed 10 :00- 14 :00
+168 4.01
+16 5 7 6 10 
+handwriting chess reading 
+Mon 7 :00- 22 :00
+Thur 7 :00- 16 :00
+Sat 7 :00- 19 :00
+Wed 15 :00- 19 :00
+Tues 9 :00- 19 :00
+169 3.26
+3 19 12 16 5 
+photograph dance chess 
+Sat 8 :00- 17 :00
+Fri 9 :00- 13 :00
+Mon 15 :00- 20 :00
+Wed 12 :00- 19 :00
+Sun 9 :00- 20 :00
+170 3.65
+16 4 3 4 9 
+music handwriting chess 
+Tues 10 :00- 16 :00
+Sat 9 :00- 14 :00
+Sun 13 :00- 17 :00
+Mon 16 :00- 17 :00
+Sat 17 :00- 21 :00
+171 4.55
+4 9 18 14 14 
+film sports photograph 
+Sun 16 :00- 23 :00
+Wed 15 :00- 18 :00
+Tues 9 :00- 10 :00
+Tues 11 :00- 16 :00
+Wed 20 :00- 21 :00
+172 1.63
+5 15 18 15 20 
+photograph dance music 
+Wed 17 :00- 20 :00
+Sat 9 :00- 19 :00
+Mon 13 :00- 15 :00
+Thur 18 :00- 20 :00
+Wed 14 :00- 16 :00
+173 2.17
+17 6 6 10 10 
+handwriting dance chess 
+Mon 14 :00- 23 :00
+Thur 16 :00- 22 :00
+Fri 7 :00- 19 :00
+Tues 9 :00- 14 :00
+Sat 16 :00- 22 :00
+174 2.27
+7 14 17 6 16 
+reading chess photograph 
+Sat 13 :00- 16 :00
+Fri 9 :00- 23 :00
+Sun 9 :00- 11 :00
+Wed 14 :00- 17 :00
+Mon 14 :00- 23 :00
+175 2.9
+10 20 12 3 13 
+dance reading handwriting 
+Sat 7 :00- 15 :00
+Wed 15 :00- 19 :00
+Thur 20 :00- 23 :00
+Fri 13 :00- 19 :00
+Sun 7 :00- 22 :00
+176 2.48
+6 13 10 18 8 
+chess handwriting music 
+Thur 9 :00- 23 :00
+Wed 9 :00- 20 :00
+Mon 7 :00- 21 :00
+Sun 21 :00- 23 :00
+Sat 10 :00- 11 :00
+177 4.06
+10 3 4 1 1 
+film sports dance 
+Tues 16 :00- 18 :00
+Tues 8 :00- 12 :00
+Fri 9 :00- 20 :00
+Thur 14 :00- 17 :00
+Sat 18 :00- 20 :00
+178 3.78
+5 6 17 16 6 
+reading photograph chess 
+Sat 19 :00- 23 :00
+Sun 9 :00- 12 :00
+Wed 7 :00- 19 :00
+Thur 7 :00- 10 :00
+Tues 13 :00- 16 :00
+179 1.77
+20 1 2 11 4 
+dance sports handwriting 
+Fri 10 :00- 22 :00
+Wed 15 :00- 19 :00
+Mon 8 :00- 12 :00
+Tues 10 :00- 18 :00
+Wed 20 :00- 22 :00
+180 4
+11 10 16 11 13 
+film music handwriting 
+Sat 7 :00- 8 :00
+Sun 17 :00- 18 :00
+Mon 15 :00- 18 :00
+Wed 7 :00- 17 :00
+Thur 8 :00- 17 :00
+181 1.23
+15 19 16 3 12 
+photograph handwriting sports 
+Mon 7 :00- 16 :00
+Wed 15 :00- 16 :00
+Wed 8 :00- 14 :00
+Sat 16 :00- 21 :00
+Sun 10 :00- 18 :00
+182 1
+16 10 13 5 19 
+reading dance chess 
+Sun 13 :00- 18 :00
+Wed 8 :00- 18 :00
+Mon 8 :00- 20 :00
+Thur 13 :00- 22 :00
+Sat 8 :00- 12 :00
+183 3.63
+19 4 1 5 6 
+handwriting chess sports 
+Sat 9 :00- 21 :00
+Tues 13 :00- 22 :00
+Mon 9 :00- 12 :00
+Fri 16 :00- 18 :00
+Sun 8 :00- 11 :00
+184 2.45
+17 9 14 4 1 
+sports handwriting photograph 
+Wed 7 :00- 9 :00
+Mon 14 :00- 22 :00
+Thur 12 :00- 19 :00
+Fri 15 :00- 23 :00
+Tues 8 :00- 10 :00
+185 3.63
+4 12 16 1 5 
+reading handwriting film 
+Sat 16 :00- 17 :00
+Mon 17 :00- 22 :00
+Wed 10 :00- 15 :00
+Tues 10 :00- 17 :00
+Sun 11 :00- 13 :00
+186 1.44
+3 14 19 5 14 
+photograph dance chess 
+Mon 10 :00- 13 :00
+Mon 15 :00- 18 :00
+Sun 11 :00- 13 :00
+Tues 12 :00- 13 :00
+Sat 12 :00- 16 :00
+187 4.09
+3 10 10 20 12 
+reading dance handwriting 
+Sat 14 :00- 16 :00
+Mon 10 :00- 12 :00
+Wed 8 :00- 11 :00
+Thur 17 :00- 21 :00
+Fri 10 :00- 21 :00
+188 2.62
+8 1 17 13 11 
+music handwriting photograph 
+Thur 9 :00- 18 :00
+Fri 9 :00- 22 :00
+Sat 14 :00- 21 :00
+Wed 11 :00- 20 :00
+Sun 9 :00- 16 :00
+189 4.17
+11 14 14 5 20 
+film chess dance 
+Thur 19 :00- 21 :00
+Thur 14 :00- 16 :00
+Sat 8 :00- 22 :00
+Tues 7 :00- 14 :00
+Mon 18 :00- 20 :00
+190 2.9
+10 7 2 2 11 
+photograph dance music 
+Thur 12 :00- 23 :00
+Tues 8 :00- 9 :00
+Sat 9 :00- 13 :00
+Wed 7 :00- 14 :00
+Mon 9 :00- 22 :00
+191 2.5
+12 19 1 4 11 
+sports handwriting photograph 
+Sun 12 :00- 23 :00
+Tues 18 :00- 21 :00
+Tues 8 :00- 15 :00
+Wed 9 :00- 12 :00
+Fri 7 :00- 17 :00
+192 3.71
+3 1 13 14 6 
+reading handwriting photograph 
+Wed 18 :00- 22 :00
+Thur 20 :00- 21 :00
+Sun 18 :00- 21 :00
+Fri 8 :00- 19 :00
+Mon 16 :00- 22 :00
+193 4.77
+16 16 18 3 8 
+music film sports 
+Sun 7 :00- 21 :00
+Sat 7 :00- 15 :00
+Wed 7 :00- 15 :00
+Mon 7 :00- 21 :00
+Fri 11 :00- 23 :00
+194 4.9
+2 12 1 2 11 
+music reading chess 
+Tues 11 :00- 23 :00
+Thur 8 :00- 22 :00
+Wed 15 :00- 16 :00
+Sun 19 :00- 21 :00
+Wed 17 :00- 23 :00
+195 3.32
+7 18 3 13 3 
+music chess handwriting 
+Fri 8 :00- 9 :00
+Wed 10 :00- 22 :00
+Sat 14 :00- 22 :00
+Mon 18 :00- 22 :00
+Thur 9 :00- 20 :00
+196 3.76
+11 6 2 3 13 
+reading music film 
+Thur 16 :00- 17 :00
+Sat 8 :00- 16 :00
+Wed 11 :00- 15 :00
+Tues 13 :00- 17 :00
+Sun 7 :00- 21 :00
+197 3.55
+11 8 18 9 3 
+music chess dance 
+Thur 16 :00- 19 :00
+Fri 9 :00- 19 :00
+Sat 12 :00- 19 :00
+Wed 19 :00- 20 :00
+Sun 10 :00- 14 :00
+198 3.92
+12 15 8 19 1 
+sports dance handwriting 
+Wed 14 :00- 21 :00
+Tues 8 :00- 21 :00
+Fri 9 :00- 11 :00
+Sat 11 :00- 19 :00
+Sat 21 :00- 23 :00
+199 2.43
+4 14 2 17 10 
+photograph music film 
+Tues 9 :00- 11 :00
+Sat 16 :00- 20 :00
+Sun 14 :00- 20 :00
+Mon 12 :00- 23 :00
+Mon 10 :00- 11 :00
+200 1.04
+4 1 2 14 14 
+handwriting reading sports 
+Sun 9 :00- 14 :00
+Wed 9 :00- 18 :00
+Mon 7 :00- 13 :00
+Wed 20 :00- 21 :00
+Thur 15 :00- 17 :00
+201 2.13
+4 1 2 5 6 
+sports reading handwriting 
+Sun 12 :00- 13 :00
+Sat 7 :00- 12 :00
+Tues 16 :00- 23 :00
+Tues 9 :00- 10 :00
+Thur 17 :00- 18 :00
+202 2.92
+8 13 15 8 12 
+dance music chess 
+Wed 15 :00- 16 :00
+Tues 13 :00- 16 :00
+Wed 19 :00- 21 :00
+Thur 9 :00- 23 :00
+Sat 10 :00- 21 :00
+203 2.74
+4 7 10 20 6 
+chess handwriting sports 
+Sat 17 :00- 22 :00
+Wed 11 :00- 17 :00
+Tues 11 :00- 13 :00
+Sun 17 :00- 20 :00
+Fri 8 :00- 17 :00
+204 1.22
+15 4 9 12 9 
+chess photograph music 
+Sat 9 :00- 17 :00
+Tues 18 :00- 19 :00
+Wed 13 :00- 22 :00
+Fri 9 :00- 18 :00
+Sun 16 :00- 19 :00
+205 3.53
+14 7 9 17 7 
+sports film photograph 
+Thur 10 :00- 23 :00
+Wed 11 :00- 15 :00
+Sat 11 :00- 16 :00
+Tues 18 :00- 23 :00
+Sun 9 :00- 14 :00
+206 3.36
+1 11 5 11 19 
+chess sports handwriting 
+Tues 10 :00- 19 :00
+Mon 9 :00- 12 :00
+Thur 13 :00- 20 :00
+Mon 13 :00- 21 :00
+Wed 18 :00- 19 :00
+207 1.03
+2 20 15 16 10 
+handwriting reading photograph 
+Wed 10 :00- 19 :00
+Mon 21 :00- 23 :00
+Thur 13 :00- 22 :00
+Sun 15 :00- 21 :00
+Sat 12 :00- 15 :00
+208 2.49
+20 4 1 16 11 
+photograph reading dance 
+Fri 7 :00- 14 :00
+Sat 12 :00- 13 :00
+Mon 12 :00- 17 :00
+Sun 20 :00- 21 :00
+Sat 7 :00- 9 :00
+209 1.75
+4 9 20 19 5 
+chess photograph handwriting 
+Thur 20 :00- 22 :00
+Mon 11 :00- 15 :00
+Tues 15 :00- 18 :00
+Wed 12 :00- 22 :00
+Sat 8 :00- 11 :00
+210 2.89
+3 11 13 12 7 
+dance reading chess 
+Tues 9 :00- 14 :00
+Mon 7 :00- 11 :00
+Tues 21 :00- 23 :00
+Tues 18 :00- 20 :00
+Sun 12 :00- 18 :00
+211 4.27
+17 15 1 5 3 
+photograph handwriting dance 
+Wed 7 :00- 9 :00
+Tues 22 :00- 23 :00
+Sat 12 :00- 21 :00
+Sat 7 :00- 11 :00
+Mon 10 :00- 22 :00
+212 1.49
+7 5 13 11 4 
+chess photograph dance 
+Sun 7 :00- 19 :00
+Fri 16 :00- 18 :00
+Thur 10 :00- 13 :00
+Fri 21 :00- 22 :00
+Wed 19 :00- 21 :00
+213 1.75
+1 12 18 14 1 
+photograph film music 
+Mon 17 :00- 18 :00
+Wed 7 :00- 21 :00
+Thur 8 :00- 15 :00
+Sun 19 :00- 20 :00
+Sat 10 :00- 16 :00
+214 4.78
+17 13 8 16 20 
+handwriting music sports 
+Tues 7 :00- 17 :00
+Wed 17 :00- 21 :00
+Fri 8 :00- 17 :00
+Sun 16 :00- 23 :00
+Mon 16 :00- 21 :00
+215 4.96
+10 5 17 5 9 
+reading handwriting chess 
+Thur 8 :00- 15 :00
+Wed 18 :00- 22 :00
+Mon 12 :00- 22 :00
+Tues 7 :00- 14 :00
+Sat 9 :00- 20 :00
+216 3.38
+18 6 10 18 13 
+sports photograph chess 
+Fri 7 :00- 17 :00
+Thur 10 :00- 15 :00
+Thur 17 :00- 19 :00
+Sat 14 :00- 17 :00
+Sat 18 :00- 20 :00
+217 3.37
+3 11 5 20 19 
+film chess music 
+Sun 17 :00- 22 :00
+Mon 8 :00- 15 :00
+Fri 8 :00- 22 :00
+Sat 12 :00- 22 :00
+Thur 14 :00- 16 :00
+218 2.3
+20 12 9 17 17 
+film dance handwriting 
+Thur 8 :00- 15 :00
+Sat 15 :00- 16 :00
+Tues 7 :00- 9 :00
+Fri 7 :00- 18 :00
+Sun 12 :00- 14 :00
+219 3.51
+8 4 12 3 17 
+reading film sports 
+Thur 18 :00- 22 :00
+Wed 16 :00- 19 :00
+Sat 10 :00- 21 :00
+Tues 8 :00- 14 :00
+Fri 14 :00- 17 :00
+220 3.63
+14 2 20 1 14 
+handwriting sports film 
+Mon 8 :00- 10 :00
+Wed 8 :00- 18 :00
+Thur 20 :00- 21 :00
+Tues 15 :00- 16 :00
+Tues 7 :00- 9 :00
+221 2.34
+3 16 16 7 11 
+chess music handwriting 
+Tues 13 :00- 22 :00
+Thur 15 :00- 17 :00
+Sun 8 :00- 23 :00
+Sat 13 :00- 20 :00
+Wed 8 :00- 14 :00
+222 4.49
+10 6 16 10 8 
+reading sports handwriting 
+Thur 12 :00- 22 :00
+Wed 21 :00- 23 :00
+Mon 10 :00- 20 :00
+Sun 9 :00- 23 :00
+Fri 19 :00- 23 :00
+223 3.31
+4 4 6 1 18 
+sports photograph handwriting 
+Sat 9 :00- 13 :00
+Sun 19 :00- 23 :00
+Sun 9 :00- 14 :00
+Thur 9 :00- 20 :00
+Mon 17 :00- 19 :00
+224 1.69
+4 15 5 17 2 
+film reading sports 
+Mon 8 :00- 9 :00
+Sat 20 :00- 21 :00
+Tues 7 :00- 10 :00
+Mon 18 :00- 21 :00
+Sun 14 :00- 21 :00
+225 3.71
+9 2 13 16 6 
+film music chess 
+Wed 7 :00- 11 :00
+Fri 8 :00- 17 :00
+Mon 7 :00- 15 :00
+Mon 18 :00- 21 :00
+Wed 14 :00- 17 :00
+226 2.02
+5 9 20 10 16 
+chess reading film 
+Wed 8 :00- 16 :00
+Fri 12 :00- 19 :00
+Sun 9 :00- 21 :00
+Tues 7 :00- 15 :00
+Wed 20 :00- 22 :00
+227 4.53
+5 3 14 5 9 
+handwriting music film 
+Sat 8 :00- 17 :00
+Sun 18 :00- 23 :00
+Mon 12 :00- 14 :00
+Fri 8 :00- 13 :00
+Fri 17 :00- 21 :00
+228 4.05
+12 12 7 20 15 
+reading handwriting chess 
+Wed 11 :00- 15 :00
+Fri 11 :00- 23 :00
+Sun 18 :00- 21 :00
+Thur 18 :00- 22 :00
+Sat 7 :00- 10 :00
+229 4.45
+18 5 18 8 15 
+music sports chess 
+Wed 8 :00- 12 :00
+Fri 13 :00- 15 :00
+Sat 14 :00- 18 :00
+Thur 11 :00- 13 :00
+Thur 14 :00- 18 :00
+230 3.68
+12 9 14 12 17 
+chess music film 
+Sat 14 :00- 22 :00
+Wed 10 :00- 18 :00
+Thur 7 :00- 13 :00
+Mon 11 :00- 16 :00
+Tues 18 :00- 21 :00
+231 1.28
+2 19 18 13 8 
+sports photograph chess 
+Thur 11 :00- 20 :00
+Tues 9 :00- 11 :00
+Fri 15 :00- 22 :00
+Wed 12 :00- 18 :00
+Mon 18 :00- 22 :00
+232 4.48
+14 13 11 12 3 
+dance chess photograph 
+Wed 8 :00- 12 :00
+Fri 10 :00- 19 :00
+Tues 9 :00- 10 :00
+Sat 11 :00- 22 :00
+Mon 11 :00- 22 :00
+233 4.32
+12 20 17 13 5 
+music handwriting sports 
+Tues 8 :00- 18 :00
+Mon 15 :00- 18 :00
+Fri 21 :00- 22 :00
+Sat 20 :00- 23 :00
+Fri 8 :00- 10 :00
+234 1
+9 16 17 16 15 
+reading dance handwriting 
+Tues 11 :00- 23 :00
+Tues 7 :00- 8 :00
+Fri 13 :00- 22 :00
+Thur 9 :00- 13 :00
+Sun 8 :00- 17 :00
+235 2.49
+11 18 3 9 18 
+film chess photograph 
+Tues 7 :00- 23 :00
+Mon 7 :00- 16 :00
+Wed 11 :00- 18 :00
+Sun 11 :00- 17 :00
+Sat 9 :00- 11 :00
+236 1.36
+15 11 13 10 19 
+photograph chess music 
+Sun 10 :00- 11 :00
+Sat 8 :00- 22 :00
+Wed 8 :00- 18 :00
+Thur 14 :00- 17 :00
+Fri 11 :00- 17 :00
+237 2.68
+11 15 16 9 6 
+handwriting chess film 
+Tues 7 :00- 13 :00
+Wed 11 :00- 21 :00
+Fri 9 :00- 17 :00
+Thur 16 :00- 21 :00
+Sat 16 :00- 19 :00
+238 3.18
+9 4 13 5 4 
+dance film sports 
+Wed 9 :00- 11 :00
+Tues 15 :00- 22 :00
+Sat 11 :00- 21 :00
+Wed 15 :00- 16 :00
+Sun 22 :00- 23 :00
+239 1.53
+8 2 2 18 16 
+photograph reading chess 
+Wed 9 :00- 15 :00
+Sun 7 :00- 13 :00
+Tues 9 :00- 19 :00
+Mon 14 :00- 17 :00
+Mon 19 :00- 20 :00
+240 4.71
+3 17 16 2 18 
+handwriting photograph music 
+Wed 9 :00- 11 :00
+Sat 16 :00- 20 :00
+Tues 8 :00- 23 :00
+Mon 9 :00- 12 :00
+Fri 7 :00- 14 :00
+241 4.54
+20 1 12 5 8 
+reading dance sports 
+Sat 10 :00- 23 :00
+Mon 7 :00- 22 :00
+Tues 16 :00- 23 :00
+Sun 12 :00- 17 :00
+Thur 13 :00- 20 :00
+242 1.28
+16 7 20 15 16 
+dance film sports 
+Wed 7 :00- 14 :00
+Thur 11 :00- 15 :00
+Fri 10 :00- 19 :00
+Sun 9 :00- 17 :00
+Mon 8 :00- 16 :00
+243 1.09
+6 1 1 18 14 
+chess photograph handwriting 
+Thur 16 :00- 23 :00
+Tues 11 :00- 13 :00
+Mon 8 :00- 13 :00
+Sun 8 :00- 20 :00
+Fri 7 :00- 23 :00
+244 3.98
+16 12 18 12 4 
+film photograph music 
+Sat 15 :00- 20 :00
+Fri 20 :00- 22 :00
+Sun 13 :00- 22 :00
+Mon 19 :00- 20 :00
+Tues 11 :00- 22 :00
+245 3.53
+9 5 4 9 7 
+photograph handwriting film 
+Mon 14 :00- 21 :00
+Tues 20 :00- 21 :00
+Sun 19 :00- 20 :00
+Sun 8 :00- 15 :00
+Sat 14 :00- 22 :00
+246 4.75
+10 14 13 7 8 
+sports film photograph 
+Wed 11 :00- 18 :00
+Sat 21 :00- 23 :00
+Thur 20 :00- 22 :00
+Wed 19 :00- 22 :00
+Sun 15 :00- 21 :00
+247 2.36
+1 6 16 18 14 
+reading music photograph 
+Mon 10 :00- 17 :00
+Fri 8 :00- 9 :00
+Thur 10 :00- 20 :00
+Wed 7 :00- 20 :00
+Tues 8 :00- 21 :00
+248 3.88
+3 18 12 20 16 
+photograph film reading 
+Sun 12 :00- 14 :00
+Wed 14 :00- 20 :00
+Mon 8 :00- 18 :00
+Sun 17 :00- 20 :00
+Thur 14 :00- 22 :00
+249 1.2
+4 9 4 8 7 
+reading photograph dance 
+Sat 8 :00- 19 :00
+Mon 11 :00- 16 :00
+Thur 7 :00- 22 :00
+Sun 10 :00- 15 :00
+Wed 16 :00- 20 :00
+250 4.86
+2 5 11 2 11 
+chess handwriting photograph 
+Mon 15 :00- 16 :00
+Mon 9 :00- 13 :00
+Tues 11 :00- 12 :00
+Sat 7 :00- 14 :00
+Thur 10 :00- 12 :00
+251 1.85
+9 18 6 19 18 
+handwriting music chess 
+Tues 18 :00- 22 :00
+Sun 15 :00- 21 :00
+Fri 13 :00- 17 :00
+Mon 9 :00- 18 :00
+Mon 21 :00- 22 :00
+252 4.35
+1 14 5 7 14 
+dance film reading 
+Fri 16 :00- 17 :00
+Sat 8 :00- 20 :00
+Sun 19 :00- 21 :00
+Mon 16 :00- 19 :00
+Tues 8 :00- 17 :00
+253 2.2
+2 3 19 5 10 
+chess handwriting photograph 
+Mon 9 :00- 22 :00
+Sun 18 :00- 23 :00
+Wed 17 :00- 20 :00
+Tues 12 :00- 20 :00
+Fri 13 :00- 20 :00
+254 4.86
+17 19 13 15 4 
+reading chess music 
+Tues 8 :00- 16 :00
+Wed 12 :00- 17 :00
+Sat 9 :00- 19 :00
+Sun 7 :00- 16 :00
+Wed 21 :00- 23 :00
+255 4.13
+12 20 10 14 5 
+film dance chess 
+Tues 12 :00- 14 :00
+Sun 13 :00- 14 :00
+Fri 13 :00- 22 :00
+Sat 9 :00- 11 :00
+Thur 15 :00- 18 :00
+256 1.75
+17 16 10 19 12 
+music film photograph 
+Sun 11 :00- 13 :00
+Mon 20 :00- 23 :00
+Sun 20 :00- 21 :00
+Wed 8 :00- 14 :00
+Mon 9 :00- 12 :00
+257 2.35
+3 16 5 3 1 
+music reading dance 
+Sun 19 :00- 21 :00
+Wed 7 :00- 11 :00
+Fri 12 :00- 13 :00
+Tues 11 :00- 21 :00
+Mon 13 :00- 22 :00
+258 3.05
+3 2 7 15 11 
+photograph dance film 
+Sat 7 :00- 10 :00
+Fri 16 :00- 18 :00
+Tues 7 :00- 15 :00
+Sun 17 :00- 18 :00
+Wed 10 :00- 22 :00
+259 2.84
+3 15 16 7 18 
+film handwriting music 
+Tues 7 :00- 14 :00
+Wed 12 :00- 21 :00
+Mon 8 :00- 20 :00
+Sun 12 :00- 13 :00
+Sat 13 :00- 14 :00
+260 4.47
+10 16 15 8 5 
+photograph sports music 
+Wed 15 :00- 18 :00
+Thur 12 :00- 20 :00
+Mon 8 :00- 14 :00
+Fri 10 :00- 18 :00
+Tues 11 :00- 12 :00
+261 2.54
+17 12 12 3 5 
+music photograph handwriting 
+Fri 12 :00- 14 :00
+Wed 13 :00- 21 :00
+Tues 7 :00- 16 :00
+Thur 9 :00- 10 :00
+Mon 11 :00- 20 :00
+262 2.01
+5 20 1 9 9 
+chess film sports 
+Wed 7 :00- 11 :00
+Sun 12 :00- 13 :00
+Tues 12 :00- 21 :00
+Sat 16 :00- 18 :00
+Wed 18 :00- 22 :00
+263 4.07
+20 18 13 3 16 
+photograph dance handwriting 
+Fri 11 :00- 12 :00
+Sat 7 :00- 23 :00
+Mon 7 :00- 11 :00
+Sun 10 :00- 13 :00
+Fri 22 :00- 23 :00
+264 4.62
+19 13 8 7 20 
+handwriting chess dance 
+Wed 16 :00- 23 :00
+Sun 11 :00- 18 :00
+Mon 16 :00- 19 :00
+Fri 15 :00- 22 :00
+Mon 14 :00- 15 :00
+265 1.02
+16 15 8 13 3 
+sports chess music 
+Sun 17 :00- 19 :00
+Mon 13 :00- 16 :00
+Mon 17 :00- 20 :00
+Sat 11 :00- 14 :00
+Sun 10 :00- 13 :00
+266 3.21
+14 11 9 10 14 
+reading photograph chess 
+Sun 11 :00- 17 :00
+Mon 8 :00- 16 :00
+Wed 9 :00- 15 :00
+Tues 7 :00- 20 :00
+Thur 8 :00- 22 :00
+267 3.32
+4 2 14 10 5 
+reading sports dance 
+Tues 13 :00- 18 :00
+Mon 7 :00- 18 :00
+Thur 13 :00- 19 :00
+Wed 17 :00- 20 :00
+Fri 8 :00- 20 :00
+268 4.14
+9 13 20 1 10 
+handwriting film music 
+Sun 9 :00- 18 :00
+Sun 20 :00- 23 :00
+Sat 12 :00- 20 :00
+Wed 13 :00- 16 :00
+Fri 8 :00- 17 :00
+269 1.42
+16 2 17 8 8 
+handwriting photograph film 
+Thur 9 :00- 13 :00
+Mon 10 :00- 19 :00
+Sun 13 :00- 14 :00
+Fri 7 :00- 14 :00
+Wed 11 :00- 13 :00
+270 4.05
+1 4 9 3 4 
+film music chess 
+Wed 10 :00- 23 :00
+Sat 12 :00- 21 :00
+Fri 7 :00- 18 :00
+Mon 13 :00- 16 :00
+Thur 7 :00- 21 :00
+271 3.34
+13 7 5 15 7 
+music photograph chess 
+Tues 17 :00- 20 :00
+Sun 15 :00- 20 :00
+Fri 10 :00- 16 :00
+Thur 14 :00- 21 :00
+Sun 9 :00- 12 :00
+272 2.35
+14 18 15 6 5 
+handwriting photograph music 
+Sat 9 :00- 12 :00
+Sun 10 :00- 22 :00
+Thur 8 :00- 19 :00
+Fri 20 :00- 21 :00
+Fri 11 :00- 17 :00
+273 4.08
+15 11 5 9 9 
+reading music handwriting 
+Sun 18 :00- 19 :00
+Thur 17 :00- 18 :00
+Fri 7 :00- 23 :00
+Thur 8 :00- 11 :00
+Mon 15 :00- 18 :00
+274 3.36
+3 11 16 6 14 
+music sports chess 
+Mon 10 :00- 15 :00
+Fri 8 :00- 16 :00
+Sun 16 :00- 19 :00
+Sat 17 :00- 22 :00
+Thur 7 :00- 22 :00
+275 2.05
+2 19 4 7 19 
+sports chess reading 
+Thur 11 :00- 21 :00
+Mon 8 :00- 13 :00
+Mon 16 :00- 23 :00
+Fri 13 :00- 22 :00
+Wed 13 :00- 21 :00
+276 4.49
+4 7 10 12 5 
+film dance chess 
+Fri 9 :00- 15 :00
+Sat 13 :00- 23 :00
+Wed 16 :00- 21 :00
+Tues 17 :00- 19 :00
+Sun 11 :00- 12 :00
+277 3.46
+12 18 9 10 13 
+photograph handwriting dance 
+Sat 14 :00- 20 :00
+Tues 10 :00- 17 :00
+Thur 8 :00- 18 :00
+Sat 8 :00- 9 :00
+Sun 7 :00- 9 :00
+278 1.95
+10 7 13 20 1 
+chess music dance 
+Mon 12 :00- 23 :00
+Fri 16 :00- 18 :00
+Sun 9 :00- 12 :00
+Sat 9 :00- 22 :00
+Wed 18 :00- 21 :00
+279 3.75
+16 4 13 4 16 
+dance chess reading 
+Sat 21 :00- 22 :00
+Tues 10 :00- 18 :00
+Wed 12 :00- 20 :00
+Mon 9 :00- 14 :00
+Fri 11 :00- 18 :00
+280 3.42
+12 15 9 3 2 
+photograph reading dance 
+Wed 7 :00- 12 :00
+Sun 8 :00- 11 :00
+Thur 19 :00- 20 :00
+Fri 10 :00- 23 :00
+Sun 17 :00- 18 :00
+281 3.74
+2 7 16 16 15 
+sports chess photograph 
+Sun 7 :00- 22 :00
+Sat 11 :00- 16 :00
+Fri 8 :00- 15 :00
+Thur 8 :00- 18 :00
+Wed 15 :00- 20 :00
+282 2.15
+11 14 19 6 3 
+chess dance sports 
+Tues 7 :00- 8 :00
+Wed 9 :00- 20 :00
+Thur 22 :00- 23 :00
+Sun 11 :00- 15 :00
+Sat 7 :00- 10 :00
+283 4.58
+9 9 19 11 8 
+photograph sports chess 
+Fri 14 :00- 21 :00
+Sun 11 :00- 22 :00
+Thur 13 :00- 19 :00
+Mon 11 :00- 22 :00
+Wed 7 :00- 11 :00
+284 2.86
+17 10 14 15 16 
+film photograph dance 
+Sun 10 :00- 17 :00
+Wed 9 :00- 21 :00
+Tues 9 :00- 23 :00
+Sun 7 :00- 9 :00
+Sat 11 :00- 16 :00
+285 3.88
+11 2 2 15 18 
+handwriting sports music 
+Sat 8 :00- 10 :00
+Fri 18 :00- 22 :00
+Wed 19 :00- 22 :00
+Tues 15 :00- 18 :00
+Sat 14 :00- 20 :00
+286 2.74
+17 2 8 18 4 
+film chess photograph 
+Tues 12 :00- 13 :00
+Sat 14 :00- 19 :00
+Fri 15 :00- 21 :00
+Wed 9 :00- 22 :00
+Thur 10 :00- 15 :00
+287 1.9
+14 15 6 16 8 
+handwriting photograph sports 
+Tues 7 :00- 19 :00
+Fri 10 :00- 14 :00
+Sat 12 :00- 21 :00
+Thur 7 :00- 13 :00
+Wed 11 :00- 17 :00
+288 2.86
+19 18 8 10 10 
+photograph reading music 
+Tues 12 :00- 18 :00
+Sat 7 :00- 9 :00
+Sun 8 :00- 13 :00
+Mon 10 :00- 21 :00
+Thur 17 :00- 18 :00
+289 1.24
+16 20 13 11 9 
+handwriting chess reading 
+Mon 9 :00- 22 :00
+Sun 16 :00- 21 :00
+Thur 8 :00- 14 :00
+Sat 7 :00- 22 :00
+Tues 9 :00- 21 :00
+290 1.83
+9 17 13 20 7 
+photograph chess music 
+Fri 8 :00- 20 :00
+Sun 16 :00- 23 :00
+Thur 9 :00- 15 :00
+Tues 11 :00- 21 :00
+Mon 8 :00- 23 :00
+291 1.49
+18 12 20 16 9 
+dance sports reading 
+Sat 9 :00- 10 :00
+Fri 9 :00- 18 :00
+Thur 15 :00- 23 :00
+Sun 12 :00- 22 :00
+Tues 18 :00- 19 :00
+292 2.71
+15 4 20 15 16 
+dance music chess 
+Tues 10 :00- 13 :00
+Tues 17 :00- 18 :00
+Mon 9 :00- 16 :00
+Wed 10 :00- 19 :00
+Fri 20 :00- 23 :00
+293 1.21
+8 10 17 13 11 
+handwriting sports film 
+Thur 19 :00- 23 :00
+Tues 8 :00- 21 :00
+Sun 12 :00- 21 :00
+Thur 7 :00- 12 :00
+Wed 13 :00- 20 :00
+294 2
+10 11 14 7 12 
+reading dance film 
+Wed 7 :00- 21 :00
+Sun 16 :00- 18 :00
+Tues 7 :00- 12 :00
+Mon 18 :00- 23 :00
+Fri 20 :00- 22 :00
+295 3.53
+15 7 8 1 9 
+sports reading photograph 
+Sun 15 :00- 17 :00
+Mon 13 :00- 14 :00
+Fri 18 :00- 23 :00
+Mon 20 :00- 23 :00
+Wed 16 :00- 22 :00
+296 1.39
+1 12 20 5 12 
+film music chess 
+Thur 14 :00- 21 :00
+Tues 12 :00- 13 :00
+Sat 11 :00- 14 :00
+Tues 16 :00- 18 :00
+Fri 9 :00- 15 :00
+297 4.54
+3 12 3 10 2 
+reading music dance 
+Sat 7 :00- 8 :00
+Fri 12 :00- 15 :00
+Sun 14 :00- 17 :00
+Mon 12 :00- 23 :00
+Thur 11 :00- 14 :00
+298 3.94
+3 4 5 8 19 
+dance reading handwriting 
+Thur 13 :00- 19 :00
+Sat 7 :00- 13 :00
+Wed 13 :00- 21 :00
+Mon 19 :00- 22 :00
+Tues 16 :00- 23 :00
+299 4.03
+10 20 14 10 7 
+photograph handwriting dance 
+Fri 7 :00- 21 :00
+Wed 15 :00- 21 :00
+Wed 8 :00- 11 :00
+Thur 21 :00- 23 :00
+Sat 10 :00- 12 :00
+300 1.55
+5 10 12 16 16 
+sports handwriting music 
+Wed 12 :00- 16 :00
+Thur 10 :00- 21 :00
+Tues 8 :00- 11 :00
+Mon 13 :00- 22 :00
+Sat 7 :00- 17 :00

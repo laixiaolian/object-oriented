@@ -1,0 +1,5 @@
+﻿  Data.cpp
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+Data.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  Bumen.vcxproj -> D:\VSproject\Bumen\Debug\Bumen.exe
+  Bumen.vcxproj -> D:\VSproject\Bumen\Debug\Bumen.pdb (Partial PDB)
